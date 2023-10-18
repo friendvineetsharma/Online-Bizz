@@ -1,0 +1,21 @@
+
+
+.navbar-brand{
+  margin-left: 100px;
+  color: aliceblue;
+}
+
+.navbar-brand:hover{
+  margin-left: 100px;
+  color: aliceblue;
+} 
+.navbar{
+  background-color: #282c34;
+}
+#navbarNav ul li a{
+  color: antiquewhite;
+}
+
+.active{
+  color: rgb(170, 211, 35) !important;
+}
